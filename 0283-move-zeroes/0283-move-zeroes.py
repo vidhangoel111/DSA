@@ -3,7 +3,7 @@ class Solution(object):
         n = len(nums)
         read = 0
         write = 0
-        for i in range(n):
+        for read in range(n):
             if(nums[read]!=0):
                 nums[read],nums[write]=nums[write],nums[read]
                 write+=1
