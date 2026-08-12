@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vidhangoel111/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vidhangoel111/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vidhangoel111/DSA/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/vidhangoel111/DSA/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vidhangoel111/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Bit Manipulation
 |  |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vidhangoel111/DSA/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/vidhangoel111/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
