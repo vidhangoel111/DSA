@@ -1,22 +1,17 @@
 class Solution(object):
     def singleNonDuplicate(self, nums):
-        low = 0
-        high = len(nums) - 1
-
-        while low < high:
-            mid = (low + high) // 2
-
-            # Make mid even
-            if mid % 2 == 1:
-                mid -= 1
-
-            # Pair is intact → single is on the right
-            if nums[mid] == nums[mid + 1]:
-                low = mid + 2
-
-            # Pair is broken → single is on the left or at mid
+        n = len(nums)
+        if(n==1):
+            return nums[0]
+        for i in range(n):
+            if(i==0):
+                if(nums[i]!=nums[i+1]):
+                    return nums[i]
+            elif(i==n-1):
+                if(nums[i]!=nums[i-1]):
+                    return nums[i]
             else:
-                high = mid
+                if(nums[i]!=nums[i+1] and nums[i]!=nums[i-1]):
+                    return nums[i]
 
-        return nums[low]
         
