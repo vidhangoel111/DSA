@@ -17,5 +17,3 @@ class Solution(object):
                 low = mid + 1
 
         return low
-        
-        
