@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vidhangoel111/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/vidhangoel111/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vidhangoel111/DSA/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/vidhangoel111/DSA/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/vidhangoel111/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vidhangoel111/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vidhangoel111/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -104,15 +105,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vidhangoel111/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vidhangoel111/DSA/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vidhangoel111/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vidhangoel111/DSA/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/vidhangoel111/DSA/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vidhangoel111/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vidhangoel111/DSA/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -121,5 +125,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vidhangoel111/DSA/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/vidhangoel111/DSA/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
