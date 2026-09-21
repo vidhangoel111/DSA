@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vidhangoel111/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidhangoel111/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/vidhangoel111/DSA/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/vidhangoel111/DSA/tree/master/0542-01-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vidhangoel111/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vidhangoel111/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vidhangoel111/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/vidhangoel111/DSA/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/vidhangoel111/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/vidhangoel111/DSA/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/vidhangoel111/DSA/tree/master/0994-rotting-oranges) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vidhangoel111/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/vidhangoel111/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vidhangoel111/DSA/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/vidhangoel111/DSA/tree/master/0994-rotting-oranges) |
 ## Union-Find
@@ -126,5 +129,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vidhangoel111/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/vidhangoel111/DSA/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/vidhangoel111/DSA/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
