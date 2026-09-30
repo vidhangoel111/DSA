@@ -1,37 +1,54 @@
-from collections import deque
-
 class Solution(object):
     def canFinish(self, numCourses, prerequisites):
-        # Create adjacency list
+        
+        # Build directed graph
         graph = [[] for _ in range(numCourses)]
 
-        # Indegree = number of prerequisites for each course
-        indegree = [0] * numCourses
-
-        # Build the graph
         for course, prerequisite in prerequisites:
             graph[prerequisite].append(course)
-            indegree[course] += 1
 
-        # Add courses with no prerequisites
-        queue = deque()
+        # 0 = Not Visited
+        # 1 = Currently Exploring
+        # 2 = Completely Explored
+        state = [0] * numCourses
 
-        for i in range(numCourses):
-            if indegree[i] == 0:
-                queue.append(i)
+        def dfs(course):
 
-        # Process courses
-        completed = 0
+            # Currently in the current DFS path
+            # -> cycle found
+            if state[course] == 1:
+                return False
 
-        while queue:
-            course = queue.popleft()
-            completed += 1
+            # Already completely explored
+            # -> no cycle from this course
+            if state[course] == 2:
+                return True
 
+            # Mark as Currently Exploring
+            state[course] = 1
+
+            # Explore all dependent courses
             for next_course in graph[course]:
-                indegree[next_course] -= 1
 
-                if indegree[next_course] == 0:
-                    queue.append(next_course)
+                if not dfs(next_course):
+                    return False
 
-        # If all courses were completed, there is no cycle
-        return completed == numCourses
+            # All neighbours safely explored
+            state[course] = 2
+
+            return True
+
+        # Graph may be disconnected,
+        # so check every course
+        for course in range(numCourses):
+
+            if state[course] == 0:
+
+                if not dfs(course):
+                    return False
+
+        return True
+        
+        
+        
+        
