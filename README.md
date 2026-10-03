@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/vidhangoel111/DSA/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/vidhangoel111/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/vidhangoel111/DSA/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/vidhangoel111/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vidhangoel111/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vidhangoel111/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/vidhangoel111/DSA/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/vidhangoel111/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/vidhangoel111/DSA/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/vidhangoel111/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/vidhangoel111/DSA/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/vidhangoel111/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/vidhangoel111/DSA/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/vidhangoel111/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Topological Sort
 |  |
 | ------- |
