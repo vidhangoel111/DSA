@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/vidhangoel111/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/vidhangoel111/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vidhangoel111/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/vidhangoel111/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vidhangoel111/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vidhangoel111/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/vidhangoel111/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vidhangoel111/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/vidhangoel111/DSA/tree/master/0875-koko-eating-bananas) |
+| [1631-path-with-minimum-effort](https://github.com/vidhangoel111/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Simulation
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/vidhangoel111/DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/vidhangoel111/DSA/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/vidhangoel111/DSA/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/vidhangoel111/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -123,12 +126,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/vidhangoel111/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/vidhangoel111/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vidhangoel111/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/vidhangoel111/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vidhangoel111/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vidhangoel111/DSA/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/vidhangoel111/DSA/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/vidhangoel111/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -142,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/vidhangoel111/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/vidhangoel111/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vidhangoel111/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/vidhangoel111/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
 |  |
 | ------- |
@@ -150,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/vidhangoel111/DSA/tree/master/0207-course-schedule) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/vidhangoel111/DSA/tree/master/1631-path-with-minimum-effort) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/vidhangoel111/DSA/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
